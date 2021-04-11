@@ -39,6 +39,9 @@
             .right {
                 border-right: 1px solid black;
             }
+            .rotate {
+                transform: rotate(180deg);
+            }
         }
         
     }
