@@ -118,3 +118,19 @@ h6 {
 .wrapper .board .row .black {
   background-color: black;
 }
+
+.wrapper .board .row .top {
+  border-top: 1px solid black;
+}
+
+.wrapper .board .row .bottom {
+  border-bottom: 1px solid black;
+}
+
+.wrapper .board .row .left {
+  border-left: 1px solid black;
+}
+
+.wrapper .board .row .right {
+  border-right: 1px solid black;
+}
